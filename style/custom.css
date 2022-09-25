@@ -1,0 +1,61 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.home-banner .carousel-item{
+    height: 92vh;
+}
+
+.section-service{
+    padding: 50px 0px;
+}
+
+.section-service .box{
+    text-align: center;
+    padding: 0px 30px;
+}
+
+.section-ads{
+    padding: 50px 0px;
+}
+
+ul, li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.center-heading {
+  text-align: center;
+}
+
+.center-heading .section-title {
+  font-weight: 400;
+  font-size: 28px;
+  color: #3B566E;
+  letter-spacing: 1.75px;
+  line-height: 38px;
+  margin-bottom: 20px;
+}
+
+.center-heading.colored .section-title {
+  color: #ffffff;
+}
+
+.center-text {
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  color: #6F8BA4;
+  line-height: 28px;
+  letter-spacing: 1px;
+  margin-bottom: 50px;
+}
+
+.center-text.colored {
+  color: #FFC0EB;
+}
+
+.center-text p {
+  margin-bottom: 30px;
+}
